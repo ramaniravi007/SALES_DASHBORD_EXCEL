@@ -16,8 +16,5 @@ This project is an interactive sales dashboard created using Microsoft Excel to 
 - Product-wise and region-wise performance
 - Interactive dashboard using slicers
 
-## 📷 Dashboard Preview
-![Dashboard](sales-dashboard.png)
-
 ## 🎯 Conclusion
 This dashboard helps to understand sales trends and supports better decision-making.
